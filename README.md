@@ -7,3 +7,5 @@ Prerequisite
 - Metamask
 - Remix IDE
 - Basic Solidity Programming knowledge
+ 
+It is recommended to solve the problems in order of number.
