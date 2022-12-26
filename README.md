@@ -3,9 +3,4 @@ But for now, the Ropsten testnet has been deprecated since Q4 2022, so the users
 
 For beginners, I suggest using a Remix IDE for deploying smart contracts.
 And I recommended to solve the problems in order of number.
-
-Prerequisite
-- Metamask
-- Remix IDE
-- Basic Solidity Programming knowledge
  
