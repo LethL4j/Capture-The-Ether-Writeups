@@ -1,3 +1,5 @@
+This challenge is guiding you to set up the environment for the contract to deploy on LocalNet or TestNet.
+
 To complete this challenge, you need to:
 
 1. Install MetaMask.
